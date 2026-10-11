@@ -1,0 +1,6 @@
+customer_id,full_name,account_number,account_type,account_balance,currency,monthly_income,monthly_debt,credit_score,employment_status,email,home_location,created_at
+CUST1001,Sarah Jenkins,ACC-449102,Checking,14850.5,USD,7500.0,1500.0,760,Employed,sarah.jenkins@example.com,"New York, USA",2023-01-15
+CUST1002,Michael Chang,ACC-778219,Savings,4200.75,USD,5200.0,2100.0,680,Employed,michael.chang@example.com,"San Francisco, USA",2023-04-22
+CUST1003,Elena Rostova,ACC-120483,Checking,850.2,USD,2400.0,1800.0,590,Part-Time,elena.rostova@example.com,"Chicago, USA",2023-08-10
+CUST1004,David Kim,ACC-992104,Premium Checking,48200.0,USD,12500.0,2200.0,810,Self-Employed,david.kim@example.com,"Seattle, USA",2022-11-05
+CUST1005,Amara Okafor,ACC-553281,Checking,2900.1,USD,3100.0,1450.0,640,Employed,amara.okafor@example.com,"Atlanta, USA",2024-02-18

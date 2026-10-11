@@ -1,0 +1,22 @@
+transaction_id,customer_id,timestamp,amount,merchant,category,location,channel,status,is_suspicious,risk_tag
+TXN1001,CUST1001,2026-10-06 12:30:00,45.2,Trader Joe's Supermarket,Groceries,"New York, USA",POS,Completed,0,normal
+TXN1002,CUST1001,2026-10-07 10:30:00,12.5,Starbucks Coffee,Dining,"New York, USA",POS,Completed,0,normal
+TXN1003,CUST1001,2026-10-08 13:30:00,89.99,Amazon.com,Retail,Online,Online,Completed,0,normal
+TXN1004,CUST1001,2026-10-10 06:30:00,115.0,Con Edison Utilities,Utilities,"New York, USA",Online,Completed,0,normal
+TXN1005,CUST1001,2026-10-11 11:15:00,4850.0,Apex Crypto Exchange,Cryptocurrency,Online,Wire Transfer,Flagged,1,high_amount_crypto
+TXN1006,CUST1001,2026-10-11 13:10:00,185.0,Saks Fifth Avenue,Retail,"New York, USA",POS,Completed,0,normal
+TXN1007,CUST1001,2026-10-11 13:22:00,1250.0,Galeries Lafayette Paris,Retail,"Paris, France",POS,Flagged,1,rapid_geo_mismatch
+TXN1008,CUST1002,2026-10-05 09:30:00,6.75,Blue Bottle Coffee,Dining,"San Francisco, USA",POS,Completed,0,normal
+TXN1009,CUST1002,2026-10-07 12:30:00,78.4,Whole Foods Market,Groceries,"San Francisco, USA",POS,Completed,0,normal
+TXN1010,CUST1002,2026-10-09 11:30:00,3200.0,Luxury Watch Boutique Geneva,Luxury Goods,"Geneva, Switzerland",POS,Flagged,1,unusual_foreign_luxury
+TXN1011,CUST1002,2026-10-11 09:30:00,25.0,Shell Gas Station,Transportation,"San Francisco, USA",POS,Completed,0,normal
+TXN1012,CUST1003,2026-10-06 08:30:00,18.5,Subway Sandwiches,Dining,"Chicago, USA",POS,Completed,0,normal
+TXN1013,CUST1003,2026-10-08 13:30:00,95.0,Aldi Groceries,Groceries,"Chicago, USA",POS,Completed,0,normal
+TXN1014,CUST1003,2026-10-10 12:30:00,42.0,CVS Pharmacy,Healthcare,"Chicago, USA",POS,Completed,0,normal
+TXN1015,CUST1004,2026-10-04 14:30:00,650.0,Delta Air Lines,Travel,"Seattle, USA",Online,Completed,0,normal
+TXN1016,CUST1004,2026-10-06 14:30:00,340.0,Four Seasons Dining,Dining,"Seattle, USA",POS,Completed,0,normal
+TXN1017,CUST1004,2026-10-09 14:30:00,185.2,Nordstrom,Retail,"Seattle, USA",POS,Completed,0,normal
+TXN1018,CUST1004,2026-10-11 00:30:00,8500.0,Global Offshore Wire Service,Wire Transfer,"Panama City, Panama",Wire Transfer,Flagged,1,high_amount_offshore
+TXN1019,CUST1005,2026-10-05 14:30:00,62.1,Publix Supermarket,Groceries,"Atlanta, USA",POS,Completed,0,normal
+TXN1020,CUST1005,2026-10-08 14:30:00,35.0,Chevron Gas,Transportation,"Atlanta, USA",POS,Completed,0,normal
+TXN1021,CUST1005,2026-10-11 08:30:00,19.99,Netflix Subscription,Entertainment,Online,Online,Completed,0,normal
