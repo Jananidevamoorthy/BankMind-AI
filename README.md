@@ -1,3 +1,4 @@
+HEAD
 # 🏦 BankMind AI: Multi-Agent Intelligent Banking Automation System
 
 > **AI/ML Internship Project** • Collaborative Multi-Agent System using Experimental AI Models, Explainable Heuristics, and Scikit-Learn Anomaly Detection.
@@ -258,3 +259,6 @@ git remote add origin https://github.com/<your-username>/bankmind-ai.git
 git branch -M main
 git push -u origin main
 ```
+
+# BankMind-AI
+ 8d5f94992aa12e03d0a3a85868d0e1c436c28984
